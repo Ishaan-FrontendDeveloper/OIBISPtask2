@@ -1,0 +1,15 @@
+
+header{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  margin:5em;
+  justify-content:center;
+  text-align:center;
+  position:static;
+}
+hr{
+  width:50vw;
+  margin-top:12%;
+  
+}
